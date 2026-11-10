@@ -1,0 +1,4 @@
+{
+  "extends": "@oriworks/typescript-config/react-library.json",
+  "include": ["src", ".storybook", "*.ts"]
+}

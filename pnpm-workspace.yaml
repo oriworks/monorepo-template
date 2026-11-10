@@ -1,0 +1,8 @@
+packages:
+  - "workspaces/apps/*"
+  - "workspaces/configs/*"
+  - "workspaces/packages/*"
+allowBuilds:
+  esbuild: true
+  sharp: false
+  unrs-resolver: false

@@ -1,0 +1,7 @@
+@import "@oriworks/design-system/styles.css";
+
+/* App-specific sources are scanned automatically; add app-level theme overrides here. */
+@theme inline {
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+}

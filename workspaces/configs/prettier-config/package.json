@@ -1,0 +1,19 @@
+{
+  "name": "@oriworks/prettier-config",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "peerDependencies": {
+    "prettier": "^3"
+  },
+  "dependencies": {
+    "prettier-plugin-tailwindcss": "^0.8.1"
+  },
+  "devDependencies": {
+    "prettier": "^3"
+  }
+}

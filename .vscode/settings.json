@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "tailwindCSS.experimental.configFile": "workspaces/packages/design-system/src/styles.css",
+  "tailwindCSS.classFunctions": [
+    "cn",
+    "cva",
+    "clsx"
+  ]
+}
